@@ -1,0 +1,262 @@
+TCTA
+v7
+r0
+t321334198.945924
+cCheck dependencies
+cProcessInfoPlistFile /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/Info.plist CTA-Info.plist
+cCompileXIB /Users/quinn/Documents/Apps/CTA/MainWindow.xib
+cCompileXIB /Users/quinn/Documents/Apps/CTA/RootViewController.xib
+cProcessPCH /var/folders/M1/M1sm5jgxEtuhmj445Khaik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CTA_Prefix-eracdurrkhwdtramquolbxouymnb/CTA_Prefix.pch.gch CTA_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/main.o /Users/quinn/Documents/Apps/CTA/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/CTAAppDelegate.o /Users/quinn/Documents/Apps/CTA/Classes/CTAAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/RootViewController.o /Users/quinn/Documents/Apps/CTA/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/CTA normal i386
+cGenerateDSYMFile /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app.dSYM /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/CTA
+cTouch /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/quinn/Documents/Apps/CTA/CTA_Prefix.pch
+c000000004D76F3D60000000000000138
+t1299641302
+s312
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/quinn/Documents/Apps/CTA/Classes/CTAAppDelegate.h
+c000000004D76F3D600000000000001C8
+t1299641302
+s456
+i<UIKit/UIKit.h>
+
+N/Users/quinn/Documents/Apps/CTA/Classes/CTAAppDelegate.m
+c000000004D76F3D60000000000000A98
+t1299641302
+s2712
+i"CTAAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/quinn/Documents/Apps/CTA/Classes/RootViewController.h
+c000000004D76F3D600000000000000E8
+t1299641302
+s232
+i<UIKit/UIKit.h>
+
+N/Users/quinn/Documents/Apps/CTA/Classes/RootViewController.m
+c000000004D76F3D600000000000010C0
+t1299641302
+s4288
+i"RootViewController.h"
+
+N/Users/quinn/Documents/Apps/CTA/MainWindow.xib
+c000000004D76F3D60000000000005FE4
+t1299641302
+s24548
+
+N/Users/quinn/Documents/Apps/CTA/RootViewController.xib
+c000000004D76F3D6000000000000444E
+t1299641302
+s17486
+
+N/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/CTA.LinkFileList
+c000000004D76F4360000000000000159
+t1299641398
+s345
+
+N/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/CTAAppDelegate.o
+t1299641398
+s52376
+
+N/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/RootViewController.o
+t1299641398
+s41148
+
+N/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/main.o
+t1299641398
+s6288
+
+N/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app
+t1299641398
+s238
+
+N/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app.dSYM
+t1299641398
+s102
+
+N/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/CTA
+t1299641398
+s17788
+
+N/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/Info.plist
+t1299641398
+s575
+
+N/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/MainWindow.nib
+t1299641398
+s1505
+
+N/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/PkgInfo
+t1299641398
+s8
+
+N/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/RootViewController.nib
+t1299641398
+s979
+
+N/Users/quinn/Documents/Apps/CTA/main.m
+c000000004D76F3D60000000000000166
+t1299641302
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/M1/M1sm5jgxEtuhmj445Khaik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CTA_Prefix-eracdurrkhwdtramquolbxouymnb/CTA_Prefix.pch.gch
+t1299641398
+s15453392
+
+NCTA-Info.plist
+c000000004D76F3D6000000000000038D
+t1299641302
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321334198#321334198#0(0"0(0#1#0"8621545984#0"0#
+
+CCompileC build/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/CTAAppDelegate.o /Users/quinn/Documents/Apps/CTA/Classes/CTAAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321334198.853711
+e321334198.908549
+r1
+xCompileC
+xbuild/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/CTAAppDelegate.o
+x/Users/quinn/Documents/Apps/CTA/Classes/CTAAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/quinn/Documents/Apps/CTA/Classes/CTAAppDelegate.m321334198#321334198#0(0"0(0#0#56"/Users/quinn/Documents/Apps/CTA/Classes/CTAAppDelegate.m8622593408#1785"    cd /Users/quinn/Documents/Apps/CTA    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-generated-files.hmap -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-own-target-headers.hmap -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-all-target-headers.hmap -iquote /Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-project-headers.hmap -F/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator -I/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/include -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/DerivedSources/i386 -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/DerivedSources -include /var/folders/M1/M1sm5jgxEtuhmj445Khaik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CTA_Prefix-eracdurrkhwdtramquolbxouymnb/CTA_Prefix.pch -c /Users/quinn/Documents/Apps/CTA/Classes/CTAAppDelegate.m -o /Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/CTAAppDelegate.o0#
+
+CCompileC build/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/RootViewController.o /Users/quinn/Documents/Apps/CTA/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321334198.854326
+e321334198.905315
+r1
+xCompileC
+xbuild/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/RootViewController.o
+x/Users/quinn/Documents/Apps/CTA/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/quinn/Documents/Apps/CTA/Classes/RootViewController.m321334198#321334198#0(0"0(0#0#60"/Users/quinn/Documents/Apps/CTA/Classes/RootViewController.m8622484512#1793"    cd /Users/quinn/Documents/Apps/CTA    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-generated-files.hmap -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-own-target-headers.hmap -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-all-target-headers.hmap -iquote /Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-project-headers.hmap -F/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator -I/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/include -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/DerivedSources/i386 -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/DerivedSources -include /var/folders/M1/M1sm5jgxEtuhmj445Khaik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CTA_Prefix-eracdurrkhwdtramquolbxouymnb/CTA_Prefix.pch -c /Users/quinn/Documents/Apps/CTA/Classes/RootViewController.m -o /Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/main.o /Users/quinn/Documents/Apps/CTA/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321334198.852851
+e321334198.893398
+r1
+xCompileC
+xbuild/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/main.o
+x/Users/quinn/Documents/Apps/CTA/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@46"Compile /Users/quinn/Documents/Apps/CTA/main.m321334198#321334198#0(0"0(0#0#38"/Users/quinn/Documents/Apps/CTA/main.m8622691712#1757"    cd /Users/quinn/Documents/Apps/CTA    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-generated-files.hmap -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-own-target-headers.hmap -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-all-target-headers.hmap -iquote /Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-project-headers.hmap -F/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator -I/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/include -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/DerivedSources/i386 -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/DerivedSources -include /var/folders/M1/M1sm5jgxEtuhmj445Khaik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CTA_Prefix-eracdurrkhwdtramquolbxouymnb/CTA_Prefix.pch -c /Users/quinn/Documents/Apps/CTA/main.m -o /Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/quinn/Documents/Apps/CTA/MainWindow.xib
+s321334198.087509
+e321334198.415742
+r1
+xCompileXIB
+x/Users/quinn/Documents/Apps/CTA/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321334198#321334198#0(0"0(0#0#46"/Users/quinn/Documents/Apps/CTA/MainWindow.xib8621958976#545"    cd /Users/quinn/Documents/Apps/CTA    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/MainWindow.nib /Users/quinn/Documents/Apps/CTA/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/quinn/Documents/Apps/CTA/RootViewController.xib
+s321334198.088170
+e321334198.414306
+r1
+xCompileXIB
+x/Users/quinn/Documents/Apps/CTA/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib321334198#321334198#0(0"0(0#0#54"/Users/quinn/Documents/Apps/CTA/RootViewController.xib8622062432#561"    cd /Users/quinn/Documents/Apps/CTA    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/RootViewController.nib /Users/quinn/Documents/Apps/CTA/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app.dSYM /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/CTA
+s321334198.924938
+e321334198.943978
+r1
+xGenerateDSYMFile
+x/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app.dSYM
+x/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/CTA
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/CTA.app.dSYM build/Debug-iphonesimulator/CTA.app/CTA321334198#321334198#0(0"0(0#0#71"/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/CTA8622285408#350"    cd /Users/quinn/Documents/Apps/CTA    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/CTA -o /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app.dSYM0#
+
+CLd /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/CTA normal i386
+s321334198.908614
+e321334198.924850
+r1
+xLd
+x/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/CTA
+xnormal
+xi386
+lSLF07#2@76"Link /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/CTA321334198#321334198#0(0"0(0#0#0"8622380256#845"    cd /Users/quinn/Documents/Apps/CTA    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator -F/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator -filelist /Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/Objects-normal/i386/CTA.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/CTA0#
+
+CProcessInfoPlistFile /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/Info.plist CTA-Info.plist
+s321334198.084700
+e321334198.087405
+r1
+xProcessInfoPlistFile
+x/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/Info.plist
+xCTA-Info.plist
+lSLF07#2@22"Process CTA-Info.plist321334198#321334198#0(0"0(0#0#46"/Users/quinn/Documents/Apps/CTA/CTA-Info.plist8622188352#446"    cd /Users/quinn/Documents/Apps/CTA    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CTA-Info.plist -genpkginfo /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app/Info.plist0#
+
+CProcessPCH /var/folders/M1/M1sm5jgxEtuhmj445Khaik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CTA_Prefix-eracdurrkhwdtramquolbxouymnb/CTA_Prefix.pch.gch CTA_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321334198.415824
+e321334198.852712
+r1
+xProcessPCH
+x/var/folders/M1/M1sm5jgxEtuhmj445Khaik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CTA_Prefix-eracdurrkhwdtramquolbxouymnb/CTA_Prefix.pch.gch
+xCTA_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile CTA_Prefix.pch321334198#321334198#0(0"0(0#0#46"/Users/quinn/Documents/Apps/CTA/CTA_Prefix.pch8622942272#1660"    cd /Users/quinn/Documents/Apps/CTA    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-generated-files.hmap -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-own-target-headers.hmap -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-all-target-headers.hmap -iquote /Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/CTA-project-headers.hmap -F/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator -I/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/include -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/DerivedSources/i386 -I/Users/quinn/Documents/Apps/CTA/build/CTA.build/Debug-iphonesimulator/CTA.build/DerivedSources -c /Users/quinn/Documents/Apps/CTA/CTA_Prefix.pch -o /var/folders/M1/M1sm5jgxEtuhmj445Khaik+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/CTA_Prefix-eracdurrkhwdtramquolbxouymnb/CTA_Prefix.pch.gch0#
+
+CTouch /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app
+s321334198.944049
+e321334198.945899
+r1
+xTouch
+x/Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app
+lSLF07#2@73"Touch /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app321334198#321334198#0(0"0(0#0#0"8622247456#260"    cd /Users/quinn/Documents/Apps/CTA    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/quinn/Documents/Apps/CTA/build/Debug-iphonesimulator/CTA.app0#
+
